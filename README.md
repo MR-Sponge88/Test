@@ -14,4 +14,4 @@ Open the site in your browser on port 8000. No build step or package installatio
 
 ## Make it yours
 
-Edit `index.html` to replace Alex Morgan, the biography, example projects, and `hello@example.com`. Adjust colors and layout in `style.css`. Project artwork is drawn with CSS; the project cards are illustrative and do not link to real projects. Google Fonts are optional; system fonts are used when unavailable.
+Edit `index.html` to replace Alex Morgan, the biography, example projects, and `hello@example.com`. Adjust colors and layout in `style.css`. Project artwork is drawn with CSS; the project cards are illustrative and do not link to real projects. The design uses system fonts and CSS artwork, with no external font or image dependencies.
